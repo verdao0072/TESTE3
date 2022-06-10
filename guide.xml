@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SBT UHD">
+    <display-name lang="pt">SBT UHD</display-name>
+    <icon src="../canais/1646424432.gif|../canais/1642178465.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
